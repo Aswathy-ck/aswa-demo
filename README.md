@@ -1,4 +1,4 @@
 # aswa-demo
-This is my first repository
+ROCK PAPER SCISSORS USING JAVA
 <br>
 Author - ASWATHY
